@@ -5,6 +5,6 @@ tambien en herramientas como Selenium, RestAsurred, Cucumber, Serenity, Karate, 
 
 Mi objetivo como QA es asegurar que los productos de software cumplan con los estándares de calidad, satisfagan las necesidades de los usuarios finales y sean fáciles de usar.
 
-En cuanto a mi formación, soy graduado como Ingeniero Civil y he estado en formación de sofkaU desde la etapa de Canteras Nivel 1
+En cuanto a mi formación, soy graduado como Ingeniero Civil y he estado en a formación de sofkaU desde la etapa de Canteras Nivel 1
 
   
